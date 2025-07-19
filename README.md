@@ -4,7 +4,7 @@
     <tr>
       <td width="60%">
         <h1>✨ Mahmoud Mohamed El-Manoufi ✨</h1>
-        <h3>Software Developer | CS Student | Tech Enthusiast</h3>
+        <h3>Software Developer </h3>
         
         ### 🚀 About Me
         ```javascript
